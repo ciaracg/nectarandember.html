@@ -1,8 +1,0 @@
-nectar-and-ember/
-│
-├── index.html        ← main HTML file
-├── style.css         ← CSS file
-├── images/           ← folder containing all candle images
-│     ├── meadow-glow.jpg
-│     ├── lavender-hive-light.jpg
-│     └── vanilla-honey-melt.jpg
